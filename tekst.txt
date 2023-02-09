@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Otbor 
 Qsho
+=======
+Otbor Stefani Petrova Petrusheva
+>>>>>>> 2b5e71e8fc14053fb06bde96bde20ebccb2809d5
