@@ -1,1 +1,2 @@
 # teamRepo
+opa kak e ?
